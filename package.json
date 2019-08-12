@@ -4,7 +4,7 @@
   "description": "fs exercises",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "debug": "nodemon --inspect index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/dmastag/ex_fs/issues"
   },
-  "homepage": "https://github.com/dmastag/ex_fs#readme"
+  "homepage": "https://github.com/dmastag/ex_fs#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "1.19.1"
+  }
 }
