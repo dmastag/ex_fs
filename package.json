@@ -1,0 +1,19 @@
+{
+  "name": "ex_filesystem",
+  "version": "1.0.0",
+  "description": "fs exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmastag/ex_fs.git"
+  },
+  "author": "Julian Alimin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmastag/ex_fs/issues"
+  },
+  "homepage": "https://github.com/dmastag/ex_fs#readme"
+}
